@@ -23,6 +23,6 @@
 </table>
 
 ## Portal
-[User] (https://github.com/d8w/cmds.js/wiki)
+[Users] (https://github.com/d8w/cmds.js/wiki)
 
-[Developer] (https://github.com/d8w/cmds.js/wiki/Development)
+[Developers] (https://github.com/d8w/cmds.js/wiki/Development)
