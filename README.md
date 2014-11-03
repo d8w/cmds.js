@@ -1,4 +1,12 @@
 ##CMDS web app (Beta)
+Integrate nicely with OZONE Widget Framework [(OWF)](http://www.ozoneplatform.org/).
+
+## Portal
+[Users] (https://github.com/d8w/cmds.js/wiki)
+
+[Developers] (https://github.com/d8w/cmds.js/wiki/Development)
+
+## Screenshots
 <table>
 <tr>
 <td width="50%">Dashbord</td> 
@@ -21,8 +29,3 @@
 <td><img height="245px" alt="massive screening" src="https://cloud.githubusercontent.com/assets/9220766/4884566/f36dc276-636c-11e4-8025-370d77087bd3.png" /></td>
 </tr>
 </table>
-
-## Portal
-[Users] (https://github.com/d8w/cmds.js/wiki)
-
-[Developers] (https://github.com/d8w/cmds.js/wiki/Development)
