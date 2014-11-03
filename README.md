@@ -10,7 +10,7 @@ Integrate nicely with OZONE Widget Framework [(OWF)](http://www.ozoneplatform.or
 <table>
 <tr>
 <td width="50%">Dashbord</td> 
-<td><img alt="dashboard" src="https://cloud.githubusercontent.com/assets/9220766/4884217/73ca2af8-6369-11e4-8f66-51007557e81b.png" /></td>
+<td><img alt="dashboard" width="394px" src="https://cloud.githubusercontent.com/assets/9220766/4884217/73ca2af8-6369-11e4-8f66-51007557e81b.png" /></td>
 </tr>
 <tr>
 <td><img height="245px" alt="massive screening" src="https://cloud.githubusercontent.com/assets/9220766/4884560/e94afe80-636c-11e4-9b2d-3f4567390cc4.png" /></td>
