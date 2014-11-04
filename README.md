@@ -8,7 +8,7 @@ Step 1. forward port 8443 (Linux/Mac)
 
 Windows users can use [PuTTY](https://github.com/d8w/cmds.js/wiki#windows).
 
-Step 2. point your browser to [https://localhost:8443/owf](https://localhost:8443/owf), log in with the following account
+Step 2. point your browser to [https://localhost:8443/owf](https://localhost:8443/owf), log in with the following credential
 ```
 testAdmin1
 password
