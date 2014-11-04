@@ -20,3 +20,11 @@ Proceed regardless of the security risk.
   * [How to file a bug](https://github.com/d8w/cmds.js/wiki#how-to-file-a-bug)
   * [Requesting a feature] (https://github.com/d8w/cmds.js/wiki#requesting-a-feature)
 * [Developers] (https://github.com/d8w/cmds.js/wiki/Development)
+
+## Browser compatibility
+* Firefox
+* Chrome
+* Safari
+* IE 10+
+
+cmds.js may work in older versions of IE but it is not tested.
