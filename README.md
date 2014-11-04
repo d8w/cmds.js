@@ -24,7 +24,6 @@ Proceed regardless of the security risk.
 ## Browser compatibility
 * Firefox
 * Chrome
-* Safari
 * IE 10+
 
 cmds.js may work in older versions of IE but it is not tested.
